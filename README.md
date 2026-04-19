@@ -1,10 +1,13 @@
 <div align="center">
 
-# Hola, soy Angel Gabriel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header&fontColor=ffffff" width="100%"/>
 
-*Estudiante de Desarrollo de Software — apasionado por las bases de datos y la arquitectura de datos*
+# Angel Gabriel Tovar Campirano
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gabriel-tovar-campirano-6174583a2/)
+**Software Development Student · Database Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gabriel-tovar-campirano-6174583a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-2C2C2A?style=flat-square&logo=github&logoColor=white)](https://github.com/angelgabriel2030)
 
 </div>
 
@@ -12,14 +15,33 @@
 
 ## Sobre mi
 
-Estudiante de desarrollo de software enfocado en el diseño y gestión de bases de datos relacionales. Me interesa construir sistemas eficientes, con modelos de datos bien estructurados y consultas optimizadas. Actualmente explorando el desarrollo backend y mobile mientras profundizo mis conocimientos en motores de bases de datos.
+> Estudiante de desarrollo de software con enfoque en el diseño y gestión de bases de datos relacionales.
+> Me apasiona construir sistemas eficientes, con modelos de datos bien estructurados y consultas optimizadas.
+> Actualmente profundizando en motores de bases de datos, arquitectura backend y desarrollo mobile.
+
+---
+
+## Estadisticas
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=angelgabriel2030&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=0A66C2&icon_color=0A66C2&text_color=2C2C2A&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelgabriel2030&layout=compact&hide_border=true&theme=default&title_color=0A66C2&text_color=2C2C2A&bg_color=ffffff&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=angelgabriel2030&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" />
+
+</div>
 
 ---
 
 ## Bases de datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
@@ -57,6 +79,16 @@ Estudiante de desarrollo de software enfocado en el diseño y gestión de bases 
 
 ## Actualmente
 
-| Aprendiendo | Explorando |
+| | |
 |---|---|
-| Optimizacion de consultas SQL y modelado de datos | Arquitectura backend con Laravel y APIs REST |
+| Aprendiendo | Optimizacion de consultas SQL y modelado de datos |
+| Explorando | Arquitectura backend con Laravel y APIs REST |
+| Objetivo | Crecer como desarrollador y contribuir a proyectos reales |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer" width="100%"/>
+
+</div>
