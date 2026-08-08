@@ -1,71 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=Angel%20Gabriel%20Tovar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automatizaci%C3%B3n%20%C2%B7%20Visi%C3%B3n%20artificial%20%C2%B7%20Datos%20de%20producci%C3%B3n&descAlignY=58&descSize=18" width="100%"/>
+<br>
+
+# Angel Gabriel Tovar Campirano
+
+*ɪɴɢᴇɴɪᴇʀɪ́ᴀ ᴇɴ ᴛᴇᴄɴᴏʟᴏɢɪ́ᴀs ᴅᴇ ʟᴀ ɪɴғᴏʀᴍᴀᴄɪᴏ́ɴ ᴇ ɪɴɴᴏᴠᴀᴄɪᴏ́ɴ ᴅɪɢɪᴛᴀʟ*
 
 <br>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-14181C?style=for-the-badge&logo=googlechrome&logoColor=E8A33D)](https://angelgabriel2030.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-14181C?style=for-the-badge&logo=linkedin&logoColor=49B3A6)](https://www.linkedin.com/in/angel-gabriel-tovar-campirano-6174583a2/)
-[![Email](https://img.shields.io/badge/Email-14181C?style=for-the-badge&logo=gmail&logoColor=E8A33D)](mailto:gabrielcampirano@gmail.com)
+[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-000000?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://angelgabriel2030.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/angel-gabriel-tovar-campirano-6174583a2/)
+[![Correo](https://img.shields.io/badge/CORREO-000000?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:gabrielcampirano@gmail.com)
+
+<br>
 
 </div>
 
-<br>
-
-### `> whoami`
-
-```
-Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital
-(Universidad Tecnológica de Torreón). Aplico software a problemas reales de
-piso de planta: visión artificial para control de calidad, automatización de
-captura de datos y desarrollo web/móvil.
-
-Estadía actual → TB Sewtech de México / Toyota Boshoku America, Planta Chávez
-```
+---
 
 <br>
 
-### `> en_que_trabajo`
+### sᴏʙʀᴇ ᴍɪ́
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🔍 **Inspección por visión artificial** | Detecta defectos en tela/vinil antes del corte automático, usando un celular como cámara IP | `Python` `OpenCV` |
-| 📋 **Automatización de captura de medidas** | Sistema en Excel/VBA para capturar y consultar medidas de lectras en manufactura | `VBA` `Excel` |
-| ⚖️ **Plataforma de denuncias — CJEM Torreón** | Sistema web + móvil para gestionar denuncias, como líder de desarrollo | `Laravel` `Vue.js` `Kotlin` |
+Diseño y construyo software que resuelve problemas reales de manufactura —
+inspección por visión artificial, automatización de captura de datos y
+plataformas web y móviles — con la misma atención al detalle que exige
+una línea de producción.
+
+Actualmente en estadía profesional en **TB Sewtech de México / Toyota
+Boshoku America**, Planta Chávez, aplicando análisis de datos y propuestas
+tecnológicas a procesos de manufactura.
 
 <br>
 
-### `> stack`
+---
+
+<br>
+
+### ᴘʀᴏʏᴇᴄᴛᴏs
+
+<br>
+
+**I. Inspección por visión artificial**
+Sistema en Python y OpenCV que detecta defectos en tela y vinil sobre la
+mesa de corte antes de que el material entre a la cortadora automática,
+usando un teléfono como cámara IP sobre red local.
+
+**II. Automatización de captura de medidas**
+Sistema en Excel automatizado con VBA para el registro y consulta de
+medidas de lectras en piso de planta, con reglas de negocio propias del
+proceso de manufactura.
+
+**III. Plataforma de gestión de denuncias — CJEM Torreón**
+Sistema web y móvil para el Centro de Justicia y Empoderamiento de la
+Mujer, desarrollado como líder técnico con arquitectura MVC.
+
+<br>
+
+---
+
+<br>
+
+### sᴛᴀᴄᴋ ᴛᴇ́ᴄɴɪᴄᴏ
+
+<br>
 
 **Lenguajes**
+<br>
+<img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=ffffff"/> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=ffffff"/> <img src="https://img.shields.io/badge/KOTLIN-000000?style=flat-square&logo=kotlin&logoColor=ffffff"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=ffffff"/>
 
-<img src="https://img.shields.io/badge/Python-14181C?style=flat-square&logo=python&logoColor=E8A33D"/> <img src="https://img.shields.io/badge/Java-14181C?style=flat-square&logo=openjdk&logoColor=E8A33D"/> <img src="https://img.shields.io/badge/C%23-14181C?style=flat-square&logo=csharp&logoColor=E8A33D"/> <img src="https://img.shields.io/badge/JavaScript-14181C?style=flat-square&logo=javascript&logoColor=E8A33D"/> <img src="https://img.shields.io/badge/TypeScript-14181C?style=flat-square&logo=typescript&logoColor=E8A33D"/> <img src="https://img.shields.io/badge/PHP-14181C?style=flat-square&logo=php&logoColor=E8A33D"/> <img src="https://img.shields.io/badge/Kotlin-14181C?style=flat-square&logo=kotlin&logoColor=E8A33D"/> <img src="https://img.shields.io/badge/SQL-14181C?style=flat-square&logo=postgresql&logoColor=E8A33D"/>
+<br>
 
-**Frameworks &amp; desarrollo**
+**Frameworks y desarrollo**
+<br>
+<img src="https://img.shields.io/badge/LARAVEL-000000?style=flat-square&logo=laravel&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VUE.JS-000000?style=flat-square&logo=vuedotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/TAILWIND-000000?style=flat-square&logo=tailwindcss&logoColor=ffffff"/> <img src="https://img.shields.io/badge/ANDROID%20STUDIO-000000?style=flat-square&logo=androidstudio&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JETPACK%20COMPOSE-000000?style=flat-square&logo=jetpackcompose&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JIRA-000000?style=flat-square&logo=jira&logoColor=ffffff"/>
 
-<img src="https://img.shields.io/badge/Laravel-14181C?style=flat-square&logo=laravel&logoColor=49B3A6"/> <img src="https://img.shields.io/badge/Vue.js-14181C?style=flat-square&logo=vuedotjs&logoColor=49B3A6"/> <img src="https://img.shields.io/badge/Tailwind_CSS-14181C?style=flat-square&logo=tailwindcss&logoColor=49B3A6"/> <img src="https://img.shields.io/badge/Android_Studio-14181C?style=flat-square&logo=androidstudio&logoColor=49B3A6"/> <img src="https://img.shields.io/badge/Jetpack_Compose-14181C?style=flat-square&logo=jetpackcompose&logoColor=49B3A6"/> <img src="https://img.shields.io/badge/Git-14181C?style=flat-square&logo=git&logoColor=49B3A6"/> <img src="https://img.shields.io/badge/Jira-14181C?style=flat-square&logo=jira&logoColor=49B3A6"/>
+<br>
 
 **Bases de datos**
-
-<img src="https://img.shields.io/badge/MySQL-14181C?style=flat-square&logo=mysql&logoColor=8C98A3"/> <img src="https://img.shields.io/badge/SQL_Server-14181C?style=flat-square&logo=microsoftsqlserver&logoColor=8C98A3"/> <img src="https://img.shields.io/badge/MariaDB-14181C?style=flat-square&logo=mariadb&logoColor=8C98A3"/> <img src="https://img.shields.io/badge/Oracle-14181C?style=flat-square&logo=oracle&logoColor=8C98A3"/>
-
-**Datos &amp; herramientas**
-
-<img src="https://img.shields.io/badge/Power_BI-14181C?style=flat-square&logo=powerbi&logoColor=8C98A3"/> <img src="https://img.shields.io/badge/Figma-14181C?style=flat-square&logo=figma&logoColor=8C98A3"/> <img src="https://img.shields.io/badge/Notion-14181C?style=flat-square&logo=notion&logoColor=8C98A3"/> <img src="https://img.shields.io/badge/Ubuntu%2FDebian-14181C?style=flat-square&logo=linux&logoColor=8C98A3"/>
+<br>
+<img src="https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=ffffff"/> <img src="https://img.shields.io/badge/SQL%20SERVER-000000?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff"/> <img src="https://img.shields.io/badge/MARIADB-000000?style=flat-square&logo=mariadb&logoColor=ffffff"/> <img src="https://img.shields.io/badge/ORACLE-000000?style=flat-square&logo=oracle&logoColor=ffffff"/>
 
 <br>
 
-### `> estadisticas`
+**Datos y herramientas**
+<br>
+<img src="https://img.shields.io/badge/POWER%20BI-000000?style=flat-square&logo=powerbi&logoColor=ffffff"/> <img src="https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=ffffff"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=ffffff"/> <img src="https://img.shields.io/badge/LINUX-000000?style=flat-square&logo=linux&logoColor=ffffff"/>
+
+<br>
+
+---
+
+<br>
+
+### ᴇsᴛᴀᴅɪ́sᴛɪᴄᴀs
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=angelgabriel2030&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=14181C&title_color=E8A33D&icon_color=49B3A6&text_color=EDF1F3"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelgabriel2030&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=14181C&title_color=E8A33D&text_color=EDF1F3"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=angelgabriel2030&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=b0b0b0"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelgabriel2030&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0"/>
 </div>
 
 <br>
 
+---
+
+<br>
+
 <div align="center">
-<sub>Torreón, Coahuila, México · última actualización julio 2026</sub>
+
+*Torreón, Coahuila · México*
+
+<sub>última actualización — julio 2026</sub>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=90&section=footer" width="100%"/>
+<br>
