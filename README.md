@@ -1,117 +1,86 @@
-<div align="center">
+# Hi there, I'm Angel Gabriel Tovar Campirano 👋
 
-<br>
-
-# Angel Gabriel Tovar Campirano
-
-*ɪɴɢᴇɴɪᴇʀɪ́ᴀ ᴇɴ ᴛᴇᴄɴᴏʟᴏɢɪ́ᴀs ᴅᴇ ʟᴀ ɪɴғᴏʀᴍᴀᴄɪᴏ́ɴ ᴇ ɪɴɴᴏᴠᴀᴄɪᴏ́ɴ ᴅɪɢɪᴛᴀʟ*
-
-<br>
-
-[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-000000?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://angelgabriel2030.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/angel-gabriel-tovar-campirano-6174583a2/)
-[![Correo](https://img.shields.io/badge/CORREO-000000?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:gabrielcampirano@gmail.com)
-
-<br>
-
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gabriel-tovar-campirano-6174583a2/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelgabriel2030)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcampirano@gmail.com)
 
 ---
 
-<br>
+### 🚀 About Me
 
-### sᴏʙʀᴇ ᴍɪ́
+I am a **Software Engineering Student** (*Ingeniería en Tecnologías de la Información e Innovación Digital*) based in **Coahuila, Mexico**. I specialize in full-stack web development, multiplatform mobile app creation, database architecture, and data engineering solutions. Passionate about continuous learning, clean architecture, and building impactful software solutions.
 
-Diseño y construyo software que resuelve problemas reales de manufactura —
-inspección por visión artificial, automatización de captura de datos y
-plataformas web y móviles — con la misma atención al detalle que exige
-una línea de producción.
-
-Actualmente en estadía profesional en **TB Sewtech de México / Toyota
-Boshoku America**, Planta Chávez, aplicando análisis de datos y propuestas
-tecnológicas a procesos de manufactura.
-
-<br>
+- 🎓 **Education:** 
+  - **TSU en Desarrollo de Software Multiplataforma** — Universidad Tecnológica de Torreón
+  - **Ingeniería en TIC e Innovación Digital** — Universidad Tecnológica de Torreón
+- 💻 **Core Focus:** Full-Stack Web Applications, Mobile App Development, Database Design & Optimization.
+- 📍 **Location:** Francisco I. Madero, Coahuila, Mexico.
 
 ---
 
-<br>
+### 🛠️ Tech Stack & Tools
 
-### ᴘʀᴏʏᴇᴄᴛᴏs
+#### **Programming & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<br>
+#### **Databases & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu/Debian-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
 
-**I. Inspección por visión artificial**
-Sistema en Python y OpenCV que detecta defectos en tela y vinil sobre la
-mesa de corte antes de que el material entre a la cortadora automática,
-usando un teléfono como cámara IP sobre red local.
-
-**II. Automatización de captura de medidas**
-Sistema en Excel automatizado con VBA para el registro y consulta de
-medidas de lectras en piso de planta, con reglas de negocio propias del
-proceso de manufactura.
-
-**III. Plataforma de gestión de denuncias — CJEM Torreón**
-Sistema web y móvil para el Centro de Justicia y Empoderamiento de la
-Mujer, desarrollado como líder técnico con arquitectura MVC.
-
-<br>
-
----
-
-<br>
-
-### sᴛᴀᴄᴋ ᴛᴇ́ᴄɴɪᴄᴏ
-
-<br>
-
-**Lenguajes**
-<br>
-<img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=ffffff"/> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=ffffff"/> <img src="https://img.shields.io/badge/KOTLIN-000000?style=flat-square&logo=kotlin&logoColor=ffffff"/> <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=ffffff"/>
-
-<br>
-
-**Frameworks y desarrollo**
-<br>
-<img src="https://img.shields.io/badge/LARAVEL-000000?style=flat-square&logo=laravel&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VUE.JS-000000?style=flat-square&logo=vuedotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/TAILWIND-000000?style=flat-square&logo=tailwindcss&logoColor=ffffff"/> <img src="https://img.shields.io/badge/ANDROID%20STUDIO-000000?style=flat-square&logo=androidstudio&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JETPACK%20COMPOSE-000000?style=flat-square&logo=jetpackcompose&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JIRA-000000?style=flat-square&logo=jira&logoColor=ffffff"/>
-
-<br>
-
-**Bases de datos**
-<br>
-<img src="https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=ffffff"/> <img src="https://img.shields.io/badge/SQL%20SERVER-000000?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff"/> <img src="https://img.shields.io/badge/MARIADB-000000?style=flat-square&logo=mariadb&logoColor=ffffff"/> <img src="https://img.shields.io/badge/ORACLE-000000?style=flat-square&logo=oracle&logoColor=ffffff"/>
-
-<br>
-
-**Datos y herramientas**
-<br>
-<img src="https://img.shields.io/badge/POWER%20BI-000000?style=flat-square&logo=powerbi&logoColor=ffffff"/> <img src="https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=ffffff"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=ffffff"/> <img src="https://img.shields.io/badge/LINUX-000000?style=flat-square&logo=linux&logoColor=ffffff"/>
-
-<br>
+#### **Developer Tools & Workflow**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-<br>
+### 📈 GitHub Stats
 
-### ᴇsᴛᴀᴅɪ́sᴛɪᴄᴀs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angelgabriel2030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Angel Gabriel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelgabriel2030&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" width="48%" />
+</p>
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=angelgabriel2030&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=b0b0b0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelgabriel2030&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b0b0b0"/>
-</div>
-
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelgabriel2030&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-<br>
+### 🌟 Soft Skills & Strengths
+- 🤝 **Effective Communication & Team Leadership**
+- 🧠 **Critical Thinking & Problem Solving**
+- ⚡ **Adaptability & Fast Learning**
+- 📈 **Continuous Improvement & Quality Mindset**
 
-<div align="center">
+---
 
-*Torreón, Coahuila · México*
-
-<sub>última actualización — julio 2026</sub>
-
-</div>
-
-<br>
+<p align="center">
+  <i>"Transforming complex requirements into elegant, high-performance software."</i>
+</p>
